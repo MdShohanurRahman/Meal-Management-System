@@ -4,8 +4,7 @@
 [![Java Version](https://img.shields.io/badge/mysql-*-orang)](https://getbootstrap.com/)
 
 # Project show
-
-[Youtube link](https://youtu.be/FBDwsEABS2g)
+Click to show 
 [![Watch the video](https://github.com/MdShohanurRahman/Meal-Management-System/blob/master/image/loginss.PNG)](https://youtu.be/FBDwsEABS2g)
 
 ----
