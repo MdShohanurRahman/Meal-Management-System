@@ -2,7 +2,6 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 [![Java Version](https://img.shields.io/badge/java-8.*-brightgreene)](https://getbootstrap.com/)
 [![Java Version](https://img.shields.io/badge/mysql-*-orang)](https://getbootstrap.com/)
-e
 
 # Features
 
