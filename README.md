@@ -27,11 +27,7 @@ git clone https://github.com/MdShohanurRahman/Meal-Management-System.git
 
 [Youtube link](https://youtu.be/FBDwsEABS2g)
 
-
-### Todos
-
- - Write MORE Tests
- - Add Night Mode
+----
 
 License
 ----
