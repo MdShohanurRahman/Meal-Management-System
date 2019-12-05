@@ -27,7 +27,7 @@ public class AddMeal extends javax.swing.JFrame {
         initComponents();
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "", "");
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "root", "");
         } catch (ClassNotFoundException | SQLException ex) {
             JOptionPane.showMessageDialog(null, ex);
         }
