@@ -21,7 +21,7 @@
 git clone https://github.com/MdShohanurRahman/Meal-Management-System.git
 ```
 ### Add jar file
-`jar file was given dist/lib directory`
+`jar file is given dist/lib directory`
 
 # Project show
 
