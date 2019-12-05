@@ -3,6 +3,11 @@
 [![Java Version](https://img.shields.io/badge/java-8.*-brightgreene)](https://getbootstrap.com/)
 [![Java Version](https://img.shields.io/badge/mysql-*-orang)](https://getbootstrap.com/)
 
+# Project show
+
+[Youtube link](https://youtu.be/FBDwsEABS2g)
+
+----
 # Features
 
   - Jdbc connection with mysql
@@ -22,12 +27,6 @@ git clone https://github.com/MdShohanurRahman/Meal-Management-System.git
 ```
 ### Add jar file
 `jar file is given dist/lib directory`
-
-# Project show
-
-[Youtube link](https://youtu.be/FBDwsEABS2g)
-
-----
 
 License
 ----
